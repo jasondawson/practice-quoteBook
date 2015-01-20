@@ -1,0 +1,14 @@
+.main-header {
+	min-height: 50px;
+	margin: 10px;
+}
+
+.main-header__input {
+	margin-top: 10px;
+}
+
+.navbar-btn {
+	border-radius: 10px;
+	height: 30px;
+	background: rgba(135, 202, 222, 0.8);
+}
